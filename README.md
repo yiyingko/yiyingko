@@ -4,8 +4,8 @@ Frontend-focused Developer based in the UK
 React • JavaScript • Thoughtful UI • Calm, maintainable code
 
 I enjoy building user interfaces that are clear, accessible, and easy to evolve.
-My background is full-stack, but my current focus is **React and frontend architecture** —
-with a solid understanding of how data, APIs, and databases fit underneath.
+I have a full-stack background, with my current focus on React and frontend architecture,
+and a solid understanding of how data, APIs, and databases fit underneath.
 
 ---
 
@@ -32,5 +32,9 @@ with a solid understanding of how data, APIs, and databases fit underneath.
 
 ## 💬 A bit about how I work
 - I value clarity over cleverness
-- I refactor often and learn by revisiting old code
-- I prefer steady progress to rushing features
+- I learn best by refactoring and revisiting old code
+- I prefer steady progress over rushing features
+
+I’m particularly interested in frontend roles where I can continue growing through real-world codebases and collaboration.
+
+---
